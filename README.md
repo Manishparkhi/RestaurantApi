@@ -1,5 +1,4 @@
-<h1 align="center"> 
-Restaurant Management</h1>
+##RestaurantApi
 
 * This repository contains the code for a Restaurant Management System. The system includes functionality for managing restaurants, as well as for user authentication and authorization.
 
@@ -14,11 +13,11 @@ using “MD-5” algorithm
 
 * Tech stack used: Spring Boot, Hibernate, MySQL, OOPs, Postman, Swagger, and Java
 >### Prerequisites
-* ![MySql](https://img.shields.io/badge/DBMS-MYSQL%205.7%20or%20Higher-red)
- * ![SpringBoot](https://img.shields.io/badge/Framework-SpringBoot-green)
+* MYSQL
+ * SPRINGBOOT
 
 
-* ![Java](https://img.shields.io/badge/Language-Java%208%20or%20higher-yellow)
+* Java
 
 >## Installation
 
